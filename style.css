@@ -1,0 +1,34 @@
+body {
+    font-family: 'M PLUS 1 Code', sans-serif;
+    background-color: rgb(253, 234, 255);
+    text-shadow: 5px 5px 5px rgb(41, 41, 41);
+}
+#header {
+    background-color: rgb(245, 204, 255);
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+#footer {
+    text-align: center;
+    background: rgb(244, 164, 255);
+    margin-top: 30px;
+    font-size: 20px;
+    line-height: 3;
+    color: rgb(7, 7, 54);
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+.headerdiv h2 {
+    font-weight: 700;
+}
+button {
+    margin-top: 20px;
+    background-color: rgb(236, 127, 236);
+    border-color: rgb(46, 39, 42);
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+}
